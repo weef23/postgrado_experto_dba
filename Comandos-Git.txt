@@ -1,0 +1,3 @@
+INICIAR PROYECTO DOMINGO
+
+git init
